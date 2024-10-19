@@ -1,6 +1,6 @@
 @font-face {
   font-family: faux-sp;
-  src: url("./faux-sp.otf") format("opentype");
+  src: url("./FauxSP.otf") format("opentype");
 }
 body {
   margin: 0;
