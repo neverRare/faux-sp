@@ -60,3 +60,6 @@ a:visited {
     color: #b47de7;
   }
 }
+textarea {
+  font-family: inherit;
+}
