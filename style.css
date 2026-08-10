@@ -63,5 +63,6 @@ a:visited {
 textarea {
   font-family: inherit;
   background-color: inherit;
+  color: inherit;
   width: 100%;
 }
